@@ -1,7 +1,7 @@
 % Program to print Fibonacci Sequence (Iterative Version).
 fib(N):- fibo(0,1,N).
 
-fibo(A,B,1):- A =\= 0 , B=\=0 , !.
+fibo(A,B,1):- write(A),A =\= 0 , B=\=0 , !.
 
 fibo(A,B,N):-
     not(N=1),
