@@ -6,3 +6,4 @@ Programs:
 2. Prime Number
 3. Gcd using Euclid
 4. Fibonacci Prime Seqeuence 
+5. Reverse a list
